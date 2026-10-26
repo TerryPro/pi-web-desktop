@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Capabilities for the Pi Web window.",
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}
